@@ -37,7 +37,7 @@ docker run --rm \
 Copy the `.env.example` file to create a new `.env` file:
 
 ```sh
-   cp .env.example .env
+cp .env.example .env
 ```
 
 ### Start the Project
@@ -45,7 +45,7 @@ Copy the `.env.example` file to create a new `.env` file:
 Start the project using Laravel Sail:
 
 ```sh
-   ./vendor/bin/sail up
+./vendor/bin/sail up
 ```
 
 ### Access the Application
@@ -53,7 +53,7 @@ Start the project using Laravel Sail:
 1. Open your browser and navigate to:
 
 ```arduino
-   http://0.0.0.0:80
+http://0.0.0.0:80
 ```
 
 2. You will be prompted to generate an application key. Click the button to generate the key.
@@ -61,7 +61,7 @@ Start the project using Laravel Sail:
 3. After generating the key, you will be prompted to run the following command in the terminal:
 
 ```sh
-   npm run dev
+npm run dev
 ```
 
 4. Copy the `APP_URL` provided in the terminal and paste it into your browser.
