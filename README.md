@@ -42,7 +42,7 @@ cp .env.example .env
 
 ### Start the Project
 
-Start the project using Laravel Sail, ensure the necessary ports are not in use. If the command fails, free up the ports or modify the Dockerfile accordingly:
+Start the project using Laravel Sail, ensure the necessary ports are not in use. If the command fails, free up the ports or modify the `docker-compose.yml` accordingly:
 
 ```sh
 ./vendor/bin/sail up
