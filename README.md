@@ -58,7 +58,7 @@ http://0.0.0.0:80
 
 2. You will be prompted to generate an application key. Click the button to generate the key.
 
-3. After generating the key, you will be prompted to run the following command in the terminal:
+3. After generating the key, you will be prompted to run the following command in the terminal, do so:
 
 ```sh
 npm run dev
