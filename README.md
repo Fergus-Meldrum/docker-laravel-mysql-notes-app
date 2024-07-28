@@ -58,13 +58,19 @@ http://0.0.0.0:80
 
 2. You will be prompted to generate an application key. Click the button to generate the key.
 
-3. After generating the key, you will be prompted to run the following command in the terminal, do so:
+3. Open a new terminal tab at the project root and install the application's Node dependencies:
+
+```sh
+npm install
+```
+
+4. In the same terminal tab, start the project's frontend by running the following command:
 
 ```sh
 npm run dev
 ```
 
-4. Copy the `APP_URL` provided in the terminal and paste it into your browser.
+5. Copy the `APP_URL` provided in the terminal and paste it into your browser.
 
 ### Use the Application
 
