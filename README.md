@@ -64,13 +64,13 @@ http://0.0.0.0:80
 ./vendor/bin/sail artisan migrate
 ```
 
-4. Open a new terminal tab at the project root and install the application's Node dependencies:
+4. In the same terminal tab, install the application's Node dependencies:
 
 ```sh
 npm install
 ```
 
-5. In the same terminal tab, start the project's frontend by running the following command:
+5. Then, start the project's frontend by running the following command:
 
 ```sh
 npm run dev
