@@ -32,6 +32,8 @@ docker run --rm \
      composer install --ignore-platform-reqs
 ```
 
+When using the laravelsail/phpXX-composer image, you should use the same version of PHP that you plan to use for your application (80, 81, 82, or 83).
+
 ### Set Up Environment Variables
 
 Copy the `.env.example` file to create a new `.env` file:
