@@ -1,3 +1,71 @@
+## Skills Demonstrated
+
+### Docker:
+
+-   Proficiency in using Docker for containerization.
+
+### MVC Architecture:
+
+-   Knowledge of the Model-View-Controller pattern.
+
+### Tailwind CSS:
+
+-   Styling frontend components with Tailwind CSS.
+
+### Laravel:
+
+#### Routes
+
+-   Creating, grouping, and prefixing routes.
+-   Using resource routes for efficient route management.
+
+#### Views and Blade Templates
+
+-   Creating functional views, layouts, and components with Blade.
+-   Building forms and ensuring component separation and reuse.
+
+#### Controllers
+
+-   Linking methods to routes and views for navigation.
+-   Using route model binding.
+-   Implementing methods for creating, editing, and deleting models.
+
+#### Environment Configuration
+
+-   Configuring the app using environment variables.
+
+#### Database Migrations
+
+-   Creating and modifying database tables.
+
+#### Eloquent ORM
+
+-   Performing CRUD operations with Eloquent.
+-   Defining model relationships for efficient queries and saving models.
+
+#### Pagination
+
+-   Implementing pagination for model retrieval and connecting it to frontend elements.
+
+#### Data Validation
+
+-   Validating incoming data to meet database and security requirements.
+
+#### Session Management
+
+-   Using session data to trigger success messages.
+
+#### Soft Deletion
+
+-   Utilizing soft delete functionality to move models to a "trashed" status, keeping them recoverable.
+
+#### User Authentication
+
+-   Implementing login and account creation with Laravel Breeze.
+-   Using middleware to protect routes.
+-   Securing data input with CSRF tokens.
+-   Protecting data access with the Auth helper.
+
 ## Installation and Setup
 
 ### Prerequisites
