@@ -1,16 +1,20 @@
+# Notes App
+
+This basic notes app allows you to register and create an account, which you can then use to log in. Once logged in, you can create, list, view, and edit your notes. The app also provides options to delete notes either temporarily or permanently. When you soft delete a note, it moves to a "trashed" folder, from where it can be permanently deleted. All data is stored in a MySQL database, ensuring that your information is persistently saved.
+
 ## Skills Demonstrated
 
 ### Docker:
 
--   Proficiency in using Docker for containerization.
+Proficiency in using Docker for containerization.
 
 ### MVC Architecture:
 
--   Knowledge of the Model-View-Controller pattern.
+Knowledge of the Model-View-Controller pattern.
 
 ### Tailwind CSS:
 
--   Styling frontend components with Tailwind CSS.
+Styling frontend components with Tailwind CSS.
 
 ### Laravel:
 
@@ -22,7 +26,7 @@
 #### Views and Blade Templates
 
 -   Creating functional views, layouts, and components with Blade.
--   Building forms and ensuring component separation and reuse.
+-   Building forms and utilizing component separation and reuse.
 
 #### Controllers
 
@@ -36,7 +40,7 @@
 
 #### Database Migrations
 
--   Creating and modifying database tables.
+-   For creating and modifying database tables.
 
 #### Eloquent ORM
 
