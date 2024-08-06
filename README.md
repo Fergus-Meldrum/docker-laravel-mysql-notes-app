@@ -88,7 +88,7 @@ Styling frontend components with Tailwind CSS.
 
 2. Navigate to the project root directory:
     ```sh
-    cd laravel-notes-app
+    cd docker-laravel-mysql-notes-app
     ```
 
 ### Install Composer Dependencies
